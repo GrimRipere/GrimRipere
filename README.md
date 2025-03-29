@@ -1,6 +1,6 @@
-<!-- Optional: Center a banner image or a personal logo at the top -->
+
 <p align="center">
-  <img src="https://via.placeholder.com/800x200/0f0f0f/ffffff?text=Welcome+to+My+Realm" alt="Banner Image" />
+  <img src="assets/Banner.jpg" alt="Banner Image" />
 </p>
 
 # Hi there, I'm Travis Ashcraft! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -14,6 +14,7 @@
 - **Role**: Gameplay Programmer, Production Specialist @ TSTC (2+ years)
 - **Expertise**: Unreal Engine (C++ & Blueprints), Networking (AWS GameLift, EOS), Game Mechanics, GitHub & Source Control
 - **Known For**: Shipped titles like [Xio Survival](https://store.steampowered.com/app/1736680/Xio_Survival/), Niftyville, Polker IO, Omniscape
+- **Up & Coming**: **[DAWN: Darkness Awaits](https://store.steampowered.com/app/1938500/DAWN_Darkness_Awaits_Withstand_the_Night/)**
 - **Passions**: Building immersive worlds, optimizing multiplayer performance, and leading teams to code victory
 
 ---
@@ -47,8 +48,8 @@
 >
 > From shipped titles like **Xio Survival** to **Niftyville**’s lore,  
 > **Polker IO** and **Omniscape**—each a tale to explore—  
-> His legacy echoes in every game played and scene,  
-> An odyssey of passion in every meticulously crafted screen.
+> Yet new horizons beckon where destiny awaits,  
+> **DAWN: Darkness Awaits**—the next saga he creates.
 >
 > So let this epic be a beacon to those who dare create,  
 > A call to arms for dreamers who challenge the fate.  
@@ -59,7 +60,6 @@
 
 ## Quick Stats
 
-<!-- You can customize these badges or remove them if you prefer. -->
 <p align="center">
   <img src="https://img.shields.io/github/followers/GrimRipere?label=Follow%20Me&style=social" alt="GitHub Followers"/>
   <img src="https://img.shields.io/badge/Unreal-Expert-informational?style=flat&logo=unrealengine&logoColor=white&color=0E1E2B" alt="Unreal Badge"/>
