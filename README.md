@@ -5,10 +5,6 @@
 
 # Hi there, I'm Travis Ashcraft! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YourGitHubID?v=4" width="120" style="border-radius: 50%;" alt="Travis Profile Picture"/>
-</p>
-
 ## About Me
 
 - **Role**: Gameplay Programmer, Production Specialist @ TSTC (2+ years)
@@ -18,6 +14,9 @@
 - **Passions**: Building immersive worlds, optimizing multiplayer performance, and leading teams to code victory
 
 ---
+<p align="center">
+  <img src="assets/Hero.jpg" alt="Hero Image" />
+</p>
 
 ## The Epic of Travis Ashcraft
 
