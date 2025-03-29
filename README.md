@@ -7,18 +7,19 @@
 
 ## About Me
 
-- **Role**: Gameplay Programmer, Production Specialist @ TSTC (2+ years)
-- **Expertise**: Unreal Engine (C++ & Blueprints), Networking (AWS GameLift, EOS), Game Mechanics, GitHub & Source Control
+- **Role**: Gameplay Programmer 🕹️, Production Specialist @ TSTC (2+ years)
+- **Expertise**: Unreal Engine (C++ & Blueprints) 🏆, Networking (AWS GameLift, EOS) 🌐, Game Mechanics 🛠️, GitHub & Source Control 🗃️
 - **Known For**: Shipped titles like [Xio Survival](https://store.steampowered.com/app/1736680/Xio_Survival/), Niftyville, Polker IO, Omniscape
-- **Up & Coming**: **[DAWN: Darkness Awaits](https://store.steampowered.com/app/1938500/DAWN_Darkness_Awaits_Withstand_the_Night/)**
-- **Passions**: Building immersive worlds, optimizing multiplayer performance, and leading teams to code victory
+- **Up & Coming**: **[DAWN: Darkness Awaits](https://store.steampowered.com/app/1938500/DAWN_Darkness_Awaits_Withstand_the_Night/)** 🧟
+- **Passions**: Building immersive worlds 🌌, optimizing multiplayer performance 🚀, and leading teams to code victory ⚔️
 
 ---
+## The Epic of Travis Ashcraft
+
 <p align="center">
   <img src="assets/Hero.jpg" alt="Hero Image" />
 </p>
 
-## The Epic of Travis Ashcraft
 
 > In the realm where digital dreams are forged,  
 > Where code and creativity are seamlessly merged,  
@@ -75,7 +76,7 @@
 
 ## Connect with Me
 
-- **LinkedIn**: [linkedin.com/in/traviscashcraft](https://www.linkedin.com/in/traviscashcraft/)
-- **Email**: travis.c.ashcraft@gmail.com
+- [<img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" width="30px" alt="LinkedIn Logo"/>](https://www.linkedin.com/in/traviscashcraft/)
+- [<img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="30px" alt="Email Logo"/>](mailto:travis.c.ashcraft@gmail.com)
 
 Feel free to explore my repositories for more game dev adventures, code snippets, and the latest projects in progress. Thanks for stopping by!
