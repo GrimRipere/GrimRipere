@@ -76,7 +76,6 @@
 
 ## Connect with Me
 
-- [<img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" width="30px" alt="LinkedIn Logo"/>](https://www.linkedin.com/in/traviscashcraft/)
-- [<img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="30px" alt="Email Logo"/>](mailto:travis.c.ashcraft@gmail.com)
+[<img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" width="30px" alt="LinkedIn Logo"/>](https://www.linkedin.com/in/traviscashcraft/),[<img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="30px" alt="Email Logo"/>](mailto:travis.c.ashcraft@gmail.com)
 
 Feel free to explore my repositories for more game dev adventures, code snippets, and the latest projects in progress. Thanks for stopping by!
