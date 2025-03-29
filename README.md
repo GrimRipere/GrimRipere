@@ -80,3 +80,14 @@
 [<img src="https://img.icons8.com/fluency/48/000000/github.png" width="30px" alt="GitHub Logo"/>](https://github.com/TravisAshcraft)
 
 Feel free to explore my repositories for more game dev adventures, code snippets, and the latest projects in progress. Thanks for stopping by!
+
+## Fun Corner 🎉
+
+<details>
+  <summary>Click here for a fun surprise! 🚀</summary>
+
+**Did you know?**  
+Just like in video games, every line of code is an epic adventure! Keep leveling up your skills, conquering bugs, and unlocking new achievements in your digital quests.  
+**Game on, hero!** 👾🎮✨
+
+</details>
